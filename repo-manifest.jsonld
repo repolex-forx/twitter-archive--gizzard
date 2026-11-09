@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twitter-archive/gizzard/commit/9b84325490185f1fa29cb4c9116b39eea374f345",
       "git:hexsha": "9b84325490185f1fa29cb4c9116b39eea374f345",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T17:42:26.556328+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twitter-archive/gizzard/commit/0fa641ec64e06882ab3bf6599fac31ce1407903a",
